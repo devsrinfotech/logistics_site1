@@ -67,7 +67,7 @@ h1 {
 @media (max-width: 767px) {
   h1 {
     font-size: 40px;
-    line-height: 50px;
+    line-height: 65px;
   }
 }
 
@@ -768,7 +768,7 @@ input.form-control {
 }
 
 .container {
-  max-width: 1290px;
+  max-width: 1600px;
 }
 
 .navbar-toggler-icon {
