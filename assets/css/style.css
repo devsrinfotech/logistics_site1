@@ -3029,7 +3029,7 @@ ul.service-list li {
 }
 
 .video-section {
-  background-image: url(../img/video-bg.jpg);
+  background-image: url(../img/UM\ -_Footer\ Img.png);
   background-size: cover;
   background-position: center;
   height: 650px;
@@ -5199,6 +5199,19 @@ h5.slick-slide img {
 
 .breadcrumb-area {
   background-image: url(../img/bread-bg.png);
+}
+
+
+.breadcrumb-area-services {
+  background-image: url(../img/UM\ -_Services.png);
+}
+
+.breadcrumb-area-faq {
+  background-image: url(../img/UM\ -_FAQ.png);
+}
+
+.breadcrumb-area-contact {
+  background-image: url(../img/UM\ -_Contact\ Us.png);
 }
 
 .breadcrumb-area {
